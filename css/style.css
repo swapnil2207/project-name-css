@@ -1,0 +1,319 @@
+   /* box1*/
+.box1{
+    text-align:center;
+   background-color: darkgoldenrod;
+    width: 400px;
+    height: auto;
+    padding: 40px 20px;
+    margin: 50px auto;
+    border-radius: 20px;
+    display: inline-block;
+
+}
+    .box1 p{
+        text-align: justify;
+        font-size: 18px;
+        line-height: 27px;
+    }
+.gradiant{
+    background: #22c1c3;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #fdbb2d, #22c1c3);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #fdbb2d, #22c1c3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.box1 a{
+    color:white;
+    background-color: #c40c0c;
+    padding: 15px 40px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: 700ms;
+}
+.box1 a:hover{
+background-color: #fc871a;
+padding: 20px 50px ;
+border-radius: 20px;
+}
+/* box1 ended*/
+
+/* box2*/
+.box2{
+    text-align: center;
+    background-color: #9af4f4;
+    width: 400px;
+    height: auto;
+    padding: 40px 20px;
+    margin: 50px 30px;
+    border-radius: 20px;
+   display: inline-block;
+}
+.box2 p{
+    text-align: justify;
+    font-size: 18px;
+        line-height: 27px;
+}
+.box2 a{
+    color:white;
+    background-color:black;
+    padding: 15px 40px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: 700ms;
+}
+.box2 a:hover{
+background-color: #1afc80;
+padding: 20px 50px ;
+border-radius: 20px;
+}
+.gradiant2{
+   background: #fc4a1a;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f7b733, #fc4a1a);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f7b733, #fc4a1a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+/*box2 end*/
+
+/*box3*/
+.box3{
+    text-align: center;
+    background-color: #9af4f4;
+    display: inline-block;
+    width: 300px;
+    height: auto;
+    padding: 40px 20px;
+    margin: 50px ;
+    border-radius: 20px;
+}
+.box3 p{
+    text-align: justify;
+    font-size: 18px;
+        line-height: 27px;}
+.box3 a{
+    color:white;
+    background-color: #674b306d;
+    padding: 15px 40px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: 700ms;
+}
+.box3 a:hover{
+background-color: #674b306d;
+padding: 20px 50px ;
+border-radius: 20px;
+}
+.gradiant3{
+    background: #ffd89b;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #19547b, #ffd89b);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #19547b, #ffd89b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+/*box3 end*/
+
+/* image part1*/
+.image1{ 
+    background-image: url(../image/abstract_graphic_poster_background_05_vector_182214.jpg);
+    color: rgba(31, 12, 3, 0.998);
+    width: 400px;
+   display: inline-block;
+    padding: 15px 10px;
+    background-position: center;
+    margin: 50px;
+    border-radius: 30px;
+}
+.image1{
+    text-align: center;
+    font-size: 18px;
+    line-height: 27px;
+}
+.image1 a{
+    color:white;
+    background-color: #6c3a0c8b;
+    padding: 15px 40px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: 700ms;}
+
+.image1 a:hover{
+background-color: #4d26029f;
+padding: 20px 50px ;
+border-radius: 20px;
+}
+/*img part 1 end*/
+
+/*img part 2*/
+.image2{
+    background-image: url(../image/download.jpg);
+    color: rgba(7, 6, 6, 0.998);
+    width: 400px;
+   background-size: cover;
+    padding: 60px 30px;
+    background-position: center;
+    margin: 50px ;
+    border-radius:20px; 
+    display: inline-block;
+
+}
+.image2{
+     text-align: center;
+    font-size: 18px;
+    line-height: 27px;
+    
+}
+.image2 a{
+    color:rgb(21, 5, 5);
+    background-color: #0b88aaac;
+    padding: 15px 40px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: 700ms;
+       background-image: no-repeat;
+       background-size: cover;
+}
+    
+
+.image2 a:hover{
+background-color: #2370a09f;
+padding: 20px 50px ;
+border-radius: 40px;
+}
+/* img part 2 end*/
+
+/* icon part 1*/
+.icon1{
+
+ text-align: center; 
+ border: dashed 5px red;
+ display: inline-block;
+ width: 500px;
+ height: auto;
+   
+ padding: 20px 10px;
+ margin: 50px ;
+ border-radius: 5px;
+}
+
+.icon1 img{
+  width: 40px;
+  
+  } 
+  
+  .icon1 a{
+    color:rgb(20, 1, 1);
+   background-color: red;
+    padding: 15px 100px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: 700ms;}
+
+.icon1 a:hover{
+background-color: #f80b07da;
+padding: 20px 50px ;
+border-radius: 40px;
+}
+.icon1 p{
+    text-align: justify;
+    font-size: 18px;
+    line-height: 27px;
+    
+}
+/*icon part1 end*/
+
+/* iconpart2*/
+
+.icon2{
+    text-align: center; 
+ border: 5px solid rgb(231, 82, 82);
+ width: 500px;
+ height: auto;
+ display: inline-block;
+   
+ padding: 20px 10px;
+ margin: 50px ;
+ border-radius: 20px;
+
+}
+
+.icon2 img{
+  width: 40px;
+  
+  } 
+
+   .icon2 a{
+    color:rgb(39, 17, 17);
+    background-color: #dc0a0a8b;
+    padding: 10px 15px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: 700ms;}
+
+.icon2 a:hover{
+background-color: #db0b079f;
+padding: 10px 150px ;
+border-radius: 5px;
+}
+
+
+.icon2 p{
+     text-align: justify;
+    font-size: 18px;
+    line-height: 27px;
+
+}
+/*icon part2 end*/
+
+/*icon 3*/
+.icon3 {
+    text-align: center;
+   border:solid 5px red;
+   display: inline-block;
+    width: 300px;
+    height: auto;
+    padding: 30px 20px ;
+    margin: 50px;
+}
+
+
+
+.icon3 img{
+    width: 50px;
+}
+ 
+
+
+   .icon3 a{
+    color:rgb(39, 17, 17);
+    background-color: #dc0a0a8b;
+    padding: 10px 15px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 20px;
+    transition: 700ms;}
+
+.icon3 a:hover{
+background-color: #db0b079f;
+padding: 10px 50px ;
+border-radius: 5px;
+}
+
+
+.icon3 p{
+     text-align: justify;
+    font-size: 18px;
+    line-height: 27px;
+
+}
+/* icon 3 end*/
+
+
+
+
+
+
+
+
+
+
